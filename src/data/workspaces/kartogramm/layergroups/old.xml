@@ -1,0 +1,67 @@
+<layerGroup>
+  <id>LayerGroupInfoImpl--106bc29:176572cacbd:-7ffb</id>
+  <name>old</name>
+  <mode>SINGLE</mode>
+  <workspace>
+    <id>WorkspaceInfoImpl-10b82032:17158077cfe:-7fff</id>
+  </workspace>
+  <publishables>
+    <published type="layer">
+      <id>LayerInfoImpl-56106c56:1764233f4c5:783b</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-56106c56:1764233f4c5:783b</id>
+    </published>
+    <published type="layerGroup">
+      <id>LayerGroupInfoImpl--106bc29:176572cacbd:-7fff</id>
+    </published>
+    <published type="layerGroup">
+      <id>LayerGroupInfoImpl--106bc29:176572cacbd:-7ff8</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-56106c56:17641f1b213:-677a</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--74e4951d:1765cc6c295:-7ffc</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-1ff8b158:176463f8c2e:-7397</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-56106c56:17641dd2023:-7ffb</id>
+    </published>
+  </publishables>
+  <styles>
+    <style>
+      <id>StyleInfoImpl--74e4951d:1765cc6c295:-563</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--74e4951d:1765cc6c295:-562</id>
+    </style>
+    <style/>
+    <style/>
+    <style>
+      <id>StyleInfoImpl--106bc29:176572cacbd:-7ffc</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--74e4951d:1765cc6c295:-7fff</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--74e4951d:1766598de0d:1bd3</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--74e4951d:1766598de0d:4ed2</id>
+    </style>
+  </styles>
+  <bounds>
+    <minx>-2456682.1181114973</minx>
+    <maxx>3344495.434099318</maxx>
+    <miny>4823121.938513572</miny>
+    <maxy>8355170.637276345</maxy>
+    <crs class="projected">EPSG:3301</crs>
+  </bounds>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layerGroup>

@@ -1,0 +1,15 @@
+<layer>
+  <name>roads_lt_0</name>
+  <id>LayerInfoImpl-56106c56:17641f1b213:1acc</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-56106c56:17641f1b213:1ac7</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-56106c56:17641f1b213:1acb</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

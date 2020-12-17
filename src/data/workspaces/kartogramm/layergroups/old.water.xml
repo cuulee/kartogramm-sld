@@ -1,0 +1,43 @@
+<layerGroup>
+  <id>LayerGroupInfoImpl--106bc29:176572cacbd:-7fff</id>
+  <name>old.water</name>
+  <mode>SINGLE</mode>
+  <workspace>
+    <id>WorkspaceInfoImpl-10b82032:17158077cfe:-7fff</id>
+  </workspace>
+  <publishables>
+    <published type="layer">
+      <id>LayerInfoImpl-56106c56:17641f1b213:-6772</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-56106c56:17641f1b213:-6854</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-56106c56:17641f1b213:-6772</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-56106c56:17641f1b213:-6854</id>
+    </published>
+  </publishables>
+  <styles>
+    <style>
+      <id>StyleInfoImpl-3a28a3b6:17653d04771:-2c90</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--106bc29:176572cacbd:-7ffd</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-3a28a3b6:17653d04771:-2c8f</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--106bc29:176572cacbd:-7ffe</id>
+    </style>
+  </styles>
+  <bounds>
+    <minx>-2456682.1181114973</minx>
+    <maxx>3344495.434099318</maxx>
+    <miny>4823121.938513572</miny>
+    <maxy>8355170.637276345</maxy>
+    <crs class="projected">EPSG:3301</crs>
+  </bounds>
+</layerGroup>

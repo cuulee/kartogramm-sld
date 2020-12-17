@@ -1,0 +1,15 @@
+<layer>
+  <name>z_low_boundaries</name>
+  <id>LayerInfoImpl-1ff8b158:17647969306:6b6</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-1ff8b158:17647969306:6b2</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-1ff8b158:17647969306:6b5</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

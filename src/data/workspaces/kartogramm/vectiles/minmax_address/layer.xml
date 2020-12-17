@@ -1,0 +1,15 @@
+<layer>
+  <name>minmax_address</name>
+  <id>LayerInfoImpl--74e4951d:1765cc6c295:-7ffc</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--74e4951d:1765cc6c295:-7fff</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--74e4951d:1765cc6c295:-7ffd</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

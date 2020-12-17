@@ -1,0 +1,15 @@
+<layer>
+  <name>z_med_natural</name>
+  <id>LayerInfoImpl-56106c56:1764401fc59:171c</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-56106c56:1764401fc59:3046</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-56106c56:1764401fc59:171b</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

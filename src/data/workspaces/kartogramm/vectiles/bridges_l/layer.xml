@@ -1,0 +1,15 @@
+<layer>
+  <name>bridges_l</name>
+  <id>LayerInfoImpl-56106c56:17642dda0ff:-2143</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-56106c56:17642dda0ff:-214c</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-56106c56:17642dda0ff:-2144</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

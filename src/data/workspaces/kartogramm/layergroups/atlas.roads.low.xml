@@ -1,0 +1,31 @@
+<layerGroup>
+  <id>LayerGroupInfoImpl-1ff8b158:17647969306:6c7</id>
+  <name>atlas.roads.low</name>
+  <mode>SINGLE</mode>
+  <workspace>
+    <id>WorkspaceInfoImpl-10b82032:17158077cfe:-7fff</id>
+  </workspace>
+  <publishables>
+    <published type="layer">
+      <id>LayerInfoImpl-1ff8b158:17647969306:6c5</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-1ff8b158:17647969306:6c5</id>
+    </published>
+  </publishables>
+  <styles>
+    <style>
+      <id>StyleInfoImpl-1ff8b158:17647969306:6c6</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-1ff8b158:17647969306:6c1</id>
+    </style>
+  </styles>
+  <bounds>
+    <minx>20.9980640411377</minx>
+    <maxx>28.2039699554443</maxx>
+    <miny>55.7422828674316</miny>
+    <maxy>59.4639549255371</maxy>
+    <crs>EPSG:4326</crs>
+  </bounds>
+</layerGroup>

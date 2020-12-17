@@ -1,0 +1,31 @@
+<layerGroup>
+  <id>LayerGroupInfoImpl-56106c56:17641f1b213:1b23</id>
+  <name>atlas.roads.hi</name>
+  <mode>SINGLE</mode>
+  <workspace>
+    <id>WorkspaceInfoImpl-10b82032:17158077cfe:-7fff</id>
+  </workspace>
+  <publishables>
+    <published type="layerGroup">
+      <id>LayerGroupInfoImpl-56106c56:17641f1b213:1ad6</id>
+    </published>
+    <published type="layerGroup">
+      <id>LayerGroupInfoImpl-56106c56:17641f1b213:1b22</id>
+    </published>
+    <published type="layerGroup">
+      <id>LayerGroupInfoImpl-56106c56:17641f1b213:7ef1</id>
+    </published>
+  </publishables>
+  <styles>
+    <style/>
+    <style/>
+    <style/>
+  </styles>
+  <bounds>
+    <minx>363759.45624633157</minx>
+    <maxx>754343.6042854973</maxx>
+    <miny>6370072.626255128</miny>
+    <maxy>6625985.929807245</maxy>
+    <crs class="projected">EPSG:3301</crs>
+  </bounds>
+</layerGroup>

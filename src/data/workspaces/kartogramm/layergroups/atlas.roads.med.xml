@@ -1,0 +1,43 @@
+<layerGroup>
+  <id>LayerGroupInfoImpl-56106c56:1764401fc59:7377</id>
+  <name>atlas.roads.med</name>
+  <mode>SINGLE</mode>
+  <workspace>
+    <id>WorkspaceInfoImpl-10b82032:17158077cfe:-7fff</id>
+  </workspace>
+  <publishables>
+    <published type="layer">
+      <id>LayerInfoImpl-56106c56:17641f1b213:1ad0</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-56106c56:1764401fc59:7376</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-56106c56:1764401fc59:7376</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-1ff8b158:176463f8c2e:1ad</id>
+    </published>
+  </publishables>
+  <styles>
+    <style>
+      <id>StyleInfoImpl-1ff8b158:176463f8c2e:5961</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-56106c56:1764401fc59:7371</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-56106c56:1764401fc59:7372</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-1ff8b158:176463f8c2e:25d</id>
+    </style>
+  </styles>
+  <bounds>
+    <minx>20.9876518249512</minx>
+    <maxx>28.258056640625</maxx>
+    <miny>55.6533889770508</miny>
+    <maxy>59.70306208844761</maxy>
+    <crs>EPSG:4326</crs>
+  </bounds>
+</layerGroup>

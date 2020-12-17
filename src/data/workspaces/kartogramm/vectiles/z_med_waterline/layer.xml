@@ -1,0 +1,15 @@
+<layer>
+  <name>z_med_waterline</name>
+  <id>LayerInfoImpl-56106c56:1764401fc59:5bc2</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-56106c56:1764401fc59:5bbe</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-56106c56:1764401fc59:5bc1</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

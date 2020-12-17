@@ -1,0 +1,15 @@
+<layer>
+  <name>boundaries</name>
+  <id>LayerInfoImpl-56106c56:176423ea855:3a40</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-56106c56:176423ea855:3a3c</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-56106c56:176423ea855:3a3f</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

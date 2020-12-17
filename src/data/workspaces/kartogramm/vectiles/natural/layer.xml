@@ -1,0 +1,15 @@
+<layer>
+  <name>natural</name>
+  <id>LayerInfoImpl-56106c56:1764233f4c5:783b</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-56106c56:1764233f4c5:7837</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-56106c56:1764233f4c5:783a</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

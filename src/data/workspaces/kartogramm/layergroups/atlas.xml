@@ -1,0 +1,31 @@
+<layerGroup>
+  <id>LayerGroupInfoImpl-56106c56:1764401fc59:304a</id>
+  <name>atlas</name>
+  <mode>SINGLE</mode>
+  <workspace>
+    <id>WorkspaceInfoImpl-10b82032:17158077cfe:-7fff</id>
+  </workspace>
+  <publishables>
+    <published type="layerGroup">
+      <id>LayerGroupInfoImpl-1ff8b158:17647969306:6aa</id>
+    </published>
+    <published type="layerGroup">
+      <id>LayerGroupInfoImpl-56106c56:1764401fc59:3049</id>
+    </published>
+    <published type="layerGroup">
+      <id>LayerGroupInfoImpl-56106c56:176427e7210:-d3a</id>
+    </published>
+  </publishables>
+  <styles>
+    <style/>
+    <style/>
+    <style/>
+  </styles>
+  <bounds>
+    <minx>-13.515861724546998</minx>
+    <maxx>59.934216189024426</maxx>
+    <miny>43.71921841343696</miny>
+    <maxy>71.85797667966433</maxy>
+    <crs>EPSG:4326</crs>
+  </bounds>
+</layerGroup>

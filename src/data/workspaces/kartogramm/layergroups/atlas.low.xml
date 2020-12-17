@@ -1,0 +1,65 @@
+<layerGroup>
+  <id>LayerGroupInfoImpl-1ff8b158:17647969306:6aa</id>
+  <name>atlas.low</name>
+  <mode>SINGLE</mode>
+  <workspace>
+    <id>WorkspaceInfoImpl-10b82032:17158077cfe:-7fff</id>
+  </workspace>
+  <publishables>
+    <published type="layer">
+      <id>LayerInfoImpl-1ff8b158:17647969306:6b1</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-56106c56:1764401fc59:171c</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-1ff8b158:17647969306:6a9</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-56106c56:1764401fc59:5bc2</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-1ff8b158:17647969306:6b6</id>
+    </published>
+    <published type="layerGroup">
+      <id>LayerGroupInfoImpl-1ff8b158:17647969306:6c7</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-1ff8b158:17647969306:6c0</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-1ff8b158:17647969306:6bb</id>
+    </published>
+  </publishables>
+  <styles>
+    <style>
+      <id>StyleInfoImpl-1ff8b158:17647969306:6ad</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-1ff8b158:17647969306:6ac</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-1ff8b158:17647969306:6a4</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-1ff8b158:17647969306:6ab</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-1ff8b158:17647969306:6b2</id>
+    </style>
+    <style/>
+    <style>
+      <id>StyleInfoImpl-1ff8b158:17647969306:6bc</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-1ff8b158:17647969306:6b7</id>
+    </style>
+  </styles>
+  <bounds>
+    <minx>-155.929244995117</minx>
+    <maxx>177.154388427734</maxx>
+    <miny>-50.6696701049805</miny>
+    <maxy>75.1752700805664</maxy>
+    <crs>EPSG:4326</crs>
+  </bounds>
+</layerGroup>

@@ -1,0 +1,43 @@
+<layerGroup>
+  <id>LayerGroupInfoImpl-56106c56:17641f1b213:1ad6</id>
+  <name>atlas.roads.hi.z_lt_0</name>
+  <mode>SINGLE</mode>
+  <workspace>
+    <id>WorkspaceInfoImpl-10b82032:17158077cfe:-7fff</id>
+  </workspace>
+  <publishables>
+    <published type="layer">
+      <id>LayerInfoImpl-56106c56:17641f1b213:1acc</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-56106c56:17641f1b213:1acc</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-56106c56:17641f1b213:1acc</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-56106c56:176427e7210:737</id>
+    </published>
+  </publishables>
+  <styles>
+    <style>
+      <id>StyleInfoImpl-56106c56:17641f1b213:1ac6</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-56106c56:17641f1b213:1ac7</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-56106c56:17641f1b213:1ac8</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-56106c56:176427e7210:738</id>
+    </style>
+  </styles>
+  <bounds>
+    <minx>363759.45624633157</minx>
+    <maxx>757190.878909759</maxx>
+    <miny>6370034.539810062</miny>
+    <maxy>6642358.297617657</maxy>
+    <crs class="projected">EPSG:3301</crs>
+  </bounds>
+</layerGroup>

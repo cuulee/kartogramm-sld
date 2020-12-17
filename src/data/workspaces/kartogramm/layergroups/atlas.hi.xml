@@ -1,0 +1,71 @@
+<layerGroup>
+  <id>LayerGroupInfoImpl-56106c56:176427e7210:-d3a</id>
+  <name>atlas.hi</name>
+  <mode>SINGLE</mode>
+  <workspace>
+    <id>WorkspaceInfoImpl-10b82032:17158077cfe:-7fff</id>
+  </workspace>
+  <publishables>
+    <published type="layer">
+      <id>LayerInfoImpl-56106c56:17641dd2023:-7ff7</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-56106c56:1764233f4c5:783b</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-56106c56:176423ea855:-6878</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-56106c56:17641f1b213:-677a</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-56106c56:17641f1b213:-6854</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-56106c56:17641f1b213:-6772</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-56106c56:176423ea855:3a40</id>
+    </published>
+    <published type="layerGroup">
+      <id>LayerGroupInfoImpl-56106c56:17641f1b213:1b23</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-56106c56:17641dd2023:-7ffb</id>
+    </published>
+  </publishables>
+  <styles>
+    <style>
+      <id>StyleInfoImpl-56106c56:17641dd2023:-7ff6</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-56106c56:1764233f4c5:7837</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-56106c56:176423ea855:-687c</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-56106c56:17641f1b213:-6779</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-56106c56:17641f1b213:-6858</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-56106c56:17641f1b213:-6778</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-56106c56:176423ea855:3a3c</id>
+    </style>
+    <style/>
+    <style>
+      <id>StyleInfoImpl-56106c56:17641dd2023:-7ffd</id>
+    </style>
+  </styles>
+  <bounds>
+    <minx>-1006345.75</minx>
+    <maxx>1928504.25</maxx>
+    <miny>5030193.5</miny>
+    <maxy>7988769.5</maxy>
+    <crs class="projected">EPSG:3301</crs>
+  </bounds>
+</layerGroup>

@@ -1,0 +1,33 @@
+<GeoServerTileLayer>
+  <id>LayerGroupInfoImpl-56106c56:1764401fc59:304a</id>
+  <enabled>true</enabled>
+  <inMemoryCached>true</inMemoryCached>
+  <name>kartogramm:atlas</name>
+  <mimeFormats>
+    <string>image/png</string>
+  </mimeFormats>
+  <gridSubsets>
+    <gridSubset>
+      <gridSetName>EPSG:3301</gridSetName>
+      <zoomStart>0</zoomStart>
+      <zoomStop>14</zoomStop>
+      <minCachedLevel>0</minCachedLevel>
+      <maxCachedLevel>13</maxCachedLevel>
+    </gridSubset>
+    <gridSubset>
+      <gridSetName>EPSG:3857</gridSetName>
+      <zoomStart>0</zoomStart>
+      <zoomStop>22</zoomStop>
+      <minCachedLevel>0</minCachedLevel>
+      <maxCachedLevel>13</maxCachedLevel>
+    </gridSubset>
+  </gridSubsets>
+  <metaWidthHeight>
+    <int>5</int>
+    <int>5</int>
+  </metaWidthHeight>
+  <expireCache>0</expireCache>
+  <expireClients>0</expireClients>
+  <parameterFilters/>
+  <gutter>0</gutter>
+</GeoServerTileLayer>
